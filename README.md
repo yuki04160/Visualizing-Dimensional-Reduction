@@ -1,1 +1,1 @@
-# t-SNE-Visualizing-Dimensional-Reduction
+# t-SNE-Visualize-Dimensional-Reduction
