@@ -6,7 +6,7 @@ The same as PCA (Principal Component Analysis), t-SNE (t-distributed Stochastic 
 The dataset is related to Zalando's article images. There are total of 10,000 examples and each example is a 28x28 grayscale image associated with a label from 10 classes. That is, there are 10 kinds of fashion products.
 ## Data Analysis
    - Change label name using Dictionary
-   - Plot images
+   - Plot product images
    - View the distribution of labels
    - Visualize dimensional reduction
      - Instead of using the whole dataset, I generated a subset of data with 100 random samples for each fashion product.
