@@ -10,7 +10,7 @@ The dataset is related to Zalando's article images. There are total of 10,000 ex
    - View the distribution of labels
    - Visualize dimensional reduction
      - Instead of using the whole dataset, I generated a subset of data with 100 random samples for each fashion product class.
-     - I used TSNE function from sklearn to reduce the dimension of the data down to 2.
+     - I used TSNE function from scikit-learn to reduce the dimension of the data down to 2.
      - I used Pyplot in Matplotlib to visualize the dimension-reduced dataset.
        - Instead of using dots, I used the number of the fashion product in the plot and used different colors for different fashion products.
 ## Conclusion
